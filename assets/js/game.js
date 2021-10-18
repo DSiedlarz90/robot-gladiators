@@ -121,3 +121,4 @@ var endGame = function() {
 };
 //start game when the page loads
 startGame();
+//wut
